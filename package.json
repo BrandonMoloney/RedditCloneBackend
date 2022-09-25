@@ -2,9 +2,10 @@
   "name": "reddit_clone_backend",
   "version": "1.0.0",
   "description": "backend for server on reddit clone ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start server.js"
   },
   "author": "",
   "license": "ISC",
